@@ -8,7 +8,7 @@ ModDBLink: https://www.moddb.com/mods/rise-of-the-reds
 NewsLink: 
 DependenceName: Rise of the Reds
 S3HostLink: gen.insave.ovh:9000
-S3BucketName: rotr
-S3FolderName: rotr-cbp-18button
+S3BucketName: ''
+S3FolderName: ''
 S3HostPublicKey: ''
 S3HostSecretKey: ''
